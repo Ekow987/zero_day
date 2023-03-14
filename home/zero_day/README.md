@@ -1,1 +1,1 @@
-Vagrant shell navigation
+This file is mandatory in projects
